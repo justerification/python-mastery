@@ -1,5 +1,11 @@
-# Advanced Python Mastery
+# Learning Advanced Python Mastery
+## I'm using a course by David Beazley to strengthen up my Python skills. This is a repository to keep track of progress.
 
+## All of my own solutions can be found in mySolutions. 
+
+## From below onwards, it is the exact information forked from the course.
+
+## Advanced Python Mastery
 A course by David Beazley (https://www.dabeaz.com)  
 Copyright (C) 2007-2024  
 
